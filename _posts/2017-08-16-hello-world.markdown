@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello world post"
+title: "Hello World Post"
 date: 2017-08-16 00:41:00 -0500
 tags: hello, world
 ---
