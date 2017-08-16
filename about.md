@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-Hi! I am a fourth semester PhD student in the [Electrical and Computer Engineering Department](http://www.ece.iastate.edu/) at [Iowa State University](http://www.iastate.edu/) where I am fortunate to work under the guidance of [Namrata Vaswani](http://www.ece.iastate.edu/~namrata/). Broadly speaking, my interests are in the theoretical aspects of Machine Learning and High-Dimensional Statistical Signal Processing. Particularly I work on online, or streaming algorithms for matrix factorization.
+Hi! I am Praneeth Narayanamurthy and I am a fourth semester PhD student in the [Electrical and Computer Engineering Department](http://www.ece.iastate.edu/) at [Iowa State University](http://www.iastate.edu/). I work under the guidance of [Namrata Vaswani](http://www.ece.iastate.edu/~namrata/). Broadly speaking, my interests are in the theoretical aspects of Machine Learning and High-Dimensional Statistical Signal Processing. Particularly I work on online, or streaming algorithms for matrix factorization.
 
 
 <!---
