@@ -1,10 +1,11 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-I am a second year PhD student in the Electrical and Computer Engineering Department at Iowa State University. My advisor is Prof. Namrata Vaswani. The main intention of writing this blog is for me to write about basic Machine Learning techqniques, mainly based to introduce people to the theoreteical foundations of ML. 
+Hi! I am a fourth semester PhD student in the [Electrical and Computer Engineering Department](http://www.ece.iastate.edu/) at [Iowa State University](http://www.iastate.edu/) where I am fortunate to work under the guidance of [Namrata Vaswani](http://www.ece.iastate.edu/~namrata/). Broadly speaking, my interests are in the theoretical aspects of Machine Learning and High-Dimensional Statistical Signal Processing. Particularly I work on online, or streaming algorithms for matrix factorization.
+
 
 <!---
 %This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
