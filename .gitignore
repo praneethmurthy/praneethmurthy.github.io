@@ -1,1 +1,5 @@
 ##empty as of now
+
+_site/
+.sass-cache
+
