@@ -10,3 +10,5 @@ Hello everyone. Welcome to YAMLB!! In this series of (very) ambitious blog posts
 
 I hope that this blog helps someone (myslef included!) find answers or maybe even better, a question or two worth pondering over.
 
+$$ \sum_{i=0}^{n} $$ 
+
