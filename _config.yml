@@ -32,6 +32,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
 #layout: splash
-
 #header: 
 #	image: /assets/images/img1.jpg
