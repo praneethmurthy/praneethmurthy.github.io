@@ -2,6 +2,7 @@
 title: PCA under generic noise models
 layout: page
 tags: PCA, SVD, sub Gaussian, bounded, non-isotropic, data-dependent
+author: Praneeth Narayanamurthy
 permalink: "PCALimits.html"
 ---
 
