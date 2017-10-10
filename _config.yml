@@ -16,7 +16,7 @@
 title: Yet Another Machine Learning Blog (YAMLB)
 email: pkurpadn@iastate.edu
 description: > # this means to ignore newlines until "baseurl:"
-  I am starting this blog to offer my take on the theoretical, and algorithmic aspects of Machine Learning.
+  I am starting this blog to offer my take on the statistical, and algorithmic aspects of Machine Learning.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -25,12 +25,15 @@ github_username:  praneethmurthy
 # Build settings
 markdown: kramdown
 theme: minima
-#gem: "github-pages", group: :jekyll-plugins
+
+#include: ['_pages']
+
 gems:
   - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
-#layout: splash
-#header: 
-#	image: /assets/images/img1.jpg
+
+collections: 
+   research:
+           output: true
