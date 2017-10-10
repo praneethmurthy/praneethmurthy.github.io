@@ -29,8 +29,7 @@ theme: minima
 
 #include: ['_pages']
 
-plugins:
-
+gems:
   - jekyll-feed
 
 exclude:
