@@ -17,6 +17,9 @@ title: Yet Another Machine Learning Blog (YAMLB)
 email: pkurpadn@iastate.edu
 description: > # this means to ignore newlines until "baseurl:"
   I am starting this blog to offer my take on the statistical, and algorithmic aspects of Machine Learning.
+
+author: praneeth narayanamurthy
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
