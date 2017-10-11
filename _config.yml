@@ -29,7 +29,7 @@ github_username:  praneethmurthy
 markdown: kramdown
 theme: minima
 
-#include: ['_pages']
+include: ['assets']
 
 gems:
   - jekyll-feed
@@ -40,3 +40,6 @@ exclude:
 collections: 
    research:
            output: true
+
+#plugins:
+#          - jekyll-seo-tag
