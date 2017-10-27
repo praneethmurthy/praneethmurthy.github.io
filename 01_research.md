@@ -13,7 +13,7 @@ This is an overview of the projects that I have worked on during my PhD
 
 * Algorithms for provably solving the dynamic compressive robust PCA problem.
 
-* [ICASSP 2018 full paper](/MERoP_full.pdf)
+* [ICASSP 2018 full paper](/MERoPFull.pdf)
 
 
 *Page perpetually Under Construction*
