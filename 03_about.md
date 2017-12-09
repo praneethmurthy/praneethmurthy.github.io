@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: whoami
 permalink: /about/
 order: 3
 ---
