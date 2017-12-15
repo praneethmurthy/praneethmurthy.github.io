@@ -12,4 +12,4 @@ Namrata Vaswani and __Praneeth Narayanamurthy__, extended abstract presented at 
 
 * [Provable Dynamic Robust PCA or Robust subspace tracking](https://arxiv.org/abs/1705.08948), __Praneeth Narayanamurthy__ and Namrata Vaswani, submitted to *IEEE Trans. Info. Theory.*.
 
-* [MEDRoP: Memory Efficient Dynamic Robust PCA], __Praneeth Narayanamurthy and Namrata Vaswani, submitted to *Algorithmic Learning Theory, 2018*.
+* [MEDRoP: Memory Efficient Dynamic Robust PCA], __Praneeth Narayanamurthy__ and Namrata Vaswani, submitted to *Algorithmic Learning Theory, 2018*.
