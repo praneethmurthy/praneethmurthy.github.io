@@ -5,3 +5,6 @@ _site/
 meropfull_temp.pdf
 meropfull_temp1.pdf
 
+#vim swap files
+*.swp
+
