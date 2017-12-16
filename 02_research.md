@@ -5,7 +5,7 @@ order: 1
 ---
 
 
-This is an overview of the projects that I have worked on during my PhD. The links to pre-prints/papers can be found [here](/publications/). 
+This is an overview of the projects that I have worked on during my PhD. The links to pre-prints/papers can be found here. 
 
 * [Finite Sample Guarantees for PCA under generic noise models.](PCALimits.html)
 
