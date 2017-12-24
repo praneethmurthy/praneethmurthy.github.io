@@ -15,3 +15,5 @@ Following completion of B.Tech, I was a Project Associate at the Indian Institue
 
 In my spare time I enjoy playing [this](https://en.wikipedia.org/wiki/Contract_bridge) and [this](https://en.wikipedia.org/wiki/Table_tennis)!
 
+You can find my CV [here](/cv_pn.pdf)
+
