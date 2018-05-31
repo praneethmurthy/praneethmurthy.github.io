@@ -5,7 +5,9 @@ order: 1
 permalink: /publications/
 ---
 
-(Please refer to [Google Scholar](https://scholar.google.com/citations?user=oCNli74AAAAJ&hl=en&authuser=1) or [arXiv](https://arxiv.org/find/all/1/all:+AND+praneeth+narayanamurthy/0/1/0/all/0/1) for a complete list.)
+([Google Scholar](https://scholar.google.com/citations?user=oCNli74AAAAJ&hl=en&authuser=1) [arXiv](https://arxiv.org/find/all/1/all:+AND+praneeth+narayanamurthy/0/1/0/all/0/1).)
+
+# Journal Publications
 
 1. [Finite Sample Guarantees for PCA in non-isotropic and data-dependent noise](https://arxiv.org/abs/1709.06255) \\
 Namrata Vaswani and *Praneeth Narayanamurthy*, \\
@@ -32,5 +34,5 @@ Namrata Vaswani and *Praneeth Narayanamurthy*\\
   - to appear, **Proceedings of IEEE**.
 
 
-
+# Conference Publications
 
