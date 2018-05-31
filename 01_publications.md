@@ -7,32 +7,50 @@ permalink: /publications/
 
 ([Google Scholar](https://scholar.google.com/citations?user=oCNli74AAAAJ&hl=en&authuser=1) [arXiv](https://arxiv.org/find/all/1/all:+AND+praneeth+narayanamurthy/0/1/0/all/0/1).)
 
-# Journal Publications
-
+# Journals and Pre-Prints
 1. [Finite Sample Guarantees for PCA in non-isotropic and data-dependent noise](https://arxiv.org/abs/1709.06255) \\
-Namrata Vaswani and *Praneeth Narayanamurthy*, \\
-  - extended abstract: to appear, **Allerton 2017**, **ISIT 2018**.
-  - longer version: under review, **Ann. Statist.** 
-<br><br>
+Namrata Vaswani and *Praneeth Narayanamurthy*,
+
 1. [Provable Dynamic Robust PCA or Robust subspace tracking](https://arxiv.org/abs/1705.08948) \\
-*Praneeth Narayanamurthy* and Namrata Vaswani, \\
-  - extended abstract: to appear, **ISIT 2018**.
-  - longer version: under review, **IEEE Trans. Info. Theory** (Oct. 2017)
-<br><br>
+*Praneeth Narayanamurthy* and Namrata Vaswani,
+  - revised and re-submitted to **IEEE Trans. Info. Theory** (Oct. 2017).
+
 1. [Nearly Optimal Robust Subspace Tracking](https://arxiv.org/abs/1712.06061) \\
 *Praneeth Narayanamurthy* and Namrata Vaswani,\\
-  - extended abstract: to appear, **ICASSP 2018**.
-  - longer version: under review, **IEEE Trans. Info. Theory** (March 2018)
-<br><br>
+  - under review, **IEEE Trans. Info. Theory** (March 2018)
+
+
 1. [Robust PCA, Subspace Learning, and Tracking](https://arxiv.org/abs/1711.09492) \\
 Namrata Vaswani, Thiery Bouwmans, Sajid Javed, *Praneeth Narayanamurthy*,\\
-  - extended abstract: to appear, **SSP 2018**.
-  - longer version: to appear, **IEEE Signal Processing Magazine**
-<br><br>
+  - **IEEE Signal Processing Magazine**, July 2018.
+
+
 1. [Static and Dynamic Robust PCA via Low-Rank and Sparse Matrix Decomposition: A Review](https://arxiv.org/abs/1803.00651) \\
 Namrata Vaswani and *Praneeth Narayanamurthy*\\
   - to appear, **Proceedings of IEEE**.
 
-
 # Conference Publications
+
+1. Nearly Optimal Robust Subspace Tracking \\
+*Praneeth Narayanamurthy* and Namrata Vaswani, **ICML 2018**
+
+1. Nearly Optimal Robust Subspace Tracking: A Unified Approach \\
+*Praneeth Narayanamurthy* and Namrata Vaswani, **DSW 2018**
+
+1. Provable Dynamic Robust PCA or Robust Subspace Tracking \\
+*Praneeth Narayanamurthy* and Namrata Vaswani, **ISIT 2018**
+
+1. PCA in Sparse Data-Dependent Noise \\
+Namrata Vaswani and *Praneeth Narayanamurthy*, **ISIT 2018**
+
+1. A Fast and Memory-Efficient Algorithm for Robust PCA (MERoP) \\
+*Praneeth Narayanamurthy* and Namrata Vaswani, **ICASSP 2018**
+
+1. Robust PCA and Robust Subspace Tracking: A comparative Evaluation \\
+Sajid Javed, *Praneeth Narayanamurthy*, Namrata Vaswani, Thierry Bouwmans, **SSP 2018**
+
+1. Finite Sample Guarantess for PCA in non-isotropic and data-dependent noise \\
+Namrata Vaswani and *Praneeth Narayanamurthy*, **Allerton 2017**
+
+
 
