@@ -14,7 +14,6 @@ This page aims to provide a mild explanation of the projects that I have worked 
 
 * [Algorithms for provably solving the dynamic compressive robust PCA problem.](CompDynRPCA.html)
 
-* [ICASSP 2018 full paper](/MERoPFull.pdf)
 
 
 *Page perpetually Under Construction*

@@ -5,7 +5,7 @@ order: 1
 permalink: /publications/
 ---
 
-([Google Scholar](https://scholar.google.com/citations?user=oCNli74AAAAJ&hl=en&authuser=1) [arXiv](https://arxiv.org/find/all/1/all:+AND+praneeth+narayanamurthy/0/1/0/all/0/1).)
+(You can also find me on [Google Scholar](https://scholar.google.com/citations?user=oCNli74AAAAJ&hl=en&authuser=1))
 
 # Journals and Pre-Prints
 1. [Finite Sample Guarantees for PCA in non-isotropic and data-dependent noise](https://arxiv.org/abs/1709.06255) \\
@@ -25,11 +25,11 @@ Namrata Vaswani, Thiery Bouwmans, Sajid Javed, *Praneeth Narayanamurthy*,\\
   - **IEEE Signal Processing Magazine**, July 2018.
 
 
-1. [Static and Dynamic Robust PCA via Low-Rank and Sparse Matrix Decomposition: A Review](https://arxiv.org/abs/1803.00651) \\
+1. [Static and Dynamic Robust PCA and Matrix Completion: A Review](https://arxiv.org/abs/1803.00651) \\
 Namrata Vaswani and *Praneeth Narayanamurthy*\\
   - to appear, **Proceedings of IEEE**.
 
-# Conference Publications
+# Conference and Workshop Publications
 
 1. Nearly Optimal Robust Subspace Tracking \\
 *Praneeth Narayanamurthy* and Namrata Vaswani, **ICML 2018**
@@ -52,5 +52,6 @@ Sajid Javed, *Praneeth Narayanamurthy*, Namrata Vaswani, Thierry Bouwmans, **SSP
 1. Finite Sample Guarantess for PCA in non-isotropic and data-dependent noise \\
 Namrata Vaswani and *Praneeth Narayanamurthy*, **Allerton 2017**
 
-
+1. Provably Correct Robust Subspace Tracking: A Correlated-PCA-based Approach \\
+Brian Lois, Namrata Vaswani, *Praneeth Narayanamurthy*, **NIPS LHDS Workshop, 2016**
 
