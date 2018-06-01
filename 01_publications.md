@@ -5,9 +5,10 @@ order: 1
 permalink: /publications/
 ---
 
-(You can also find me on [Google Scholar](https://scholar.google.com/citations?user=oCNli74AAAAJ&hl=en&authuser=1))
+([Google Scholar](https://scholar.google.com/citations?user=oCNli74AAAAJ&hl=en&authuser=1) Profile)
 
 # Journals and Pre-Prints
+======
 1. [Finite Sample Guarantees for PCA in non-isotropic and data-dependent noise](https://arxiv.org/abs/1709.06255) \\
 Namrata Vaswani and *Praneeth Narayanamurthy*,
 
@@ -30,7 +31,7 @@ Namrata Vaswani and *Praneeth Narayanamurthy*\\
   - to appear, **Proceedings of IEEE**.
 
 # Conference and Workshop Publications
-
+======
 1. Nearly Optimal Robust Subspace Tracking \\
 *Praneeth Narayanamurthy* and Namrata Vaswani, **ICML 2018**
 
