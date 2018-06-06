@@ -14,7 +14,7 @@ This page aims to provide a mild explanation of the projects that I have worked 
 
 * [Algorithms for provably solving the dynamic compressive robust PCA problem.](CompDynRPCA.html)
 
-
+* [Subspace Tracking with Missing Data](/NORSTRandom.pdf)
 
 *Page perpetually Under Construction*
 
