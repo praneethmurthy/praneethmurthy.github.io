@@ -5,7 +5,7 @@ order: 1
 permalink: /publications/
 ---
 
-([Google Scholar](https://scholar.google.com/citations?user=oCNli74AAAAJ&hl=en&authuser=1) Profile)
+(My [Google Scholar Profile](https://scholar.google.com/citations?user=oCNli74AAAAJ&hl=en&authuser=1))
 
 # Journals and Pre-Prints
 
