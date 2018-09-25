@@ -40,6 +40,7 @@ exclude:
 collections: 
    research:
            output: true
+   future: true
 
 #plugins:
 #          - jekyll-seo-tag
