@@ -51,7 +51,63 @@ where $$r(\cdot)$$ is the "infinitesimal residual". Now, pluggin that value into
 \begin{align}
 \psi_{Y_n}(t) = \left(1 -\frac{t^2}{2n} + r\left(\frac{t}{\sqrt{n}}\right)  \right)^n =  \left(\left(1 -\frac{t^2}{2n} + r\left(\frac{t}{\sqrt{n}}\right)  \right)^{-2n/t^2}\right) ^{\frac{-t^2}{2}} \to e^{\frac{-t^2}{2}}
 \end{align}
-as $$n \to \infty$$. This proves that the distribution of  $$Y_n$$ tends to become closer the the standard Gaussian distribution with increasing values of $$n$$. Finally, applying a rescaling of $$Y_n \to \sigma Y_n$$, we obtain the simplification of the l.h.s. of the main theorem. This proves CLT. 
+as $$n \to \infty$$. This proves that the distribution of  $$Y_n$$ tends to become closer the the standard Gaussian distribution with increasing values of $$n$$. Finally, applying a rescaling of $$Y_n \to \sigma Y_n$$, we obtain the simplification of the l.h.s. of the main theorem. This proves CLT.  $$\boxtimes$$
+
+**Proof of Weak Law of Large Numbers:**
+Again, here there are multiple methods to prove the WLLN but I will focus on using CF. Again, since the r.v.'s $$X_i$$ are i.i.d., we will often drop the subscript and use $$X$$ to denote any of the identical copies. First, we define $$Y_n = \frac{\sum_{i=1}^n X_1 + X_2 + \cdots + X_n}{n}$$ and now consider the CF of $$Y_n$$. Recalling the two basic properties of CF from the previous section we obtain  
+\begin{align}
+\psi_{Y_n}(t) &= \psi_{X_1/n}(t) \cdot \psi_{X_2/n}(t) \cdots \psi_{X_n/n}(t) \\\
+&= (\psi_{X/n}(t))^n = \left(\psi_X \left(\frac{t}{n}\right) \right)^n
+\end{align}
+now, using the same ideas as before: defintion of CF, linearity of expectation, and the Taylor series expansion of $$e^x$$, it follows that
+\begin{align}
+\psi_{Y_n}(t) &= \left( 1 +  \frac{it\mu}{n} - \frac{t^2 \mathbb{E}[X^2]}{2! n^2} - \frac{it^3 \mathbb{E}[X^3]}{3! n^3} +  \cdots \right)^n \\\
+&= \left( 1 +  \frac{it\mu}{n} +  r\left(\frac{t}{n}\right) \right)^n \\\
+&= \left( \left( 1 +  \frac{it\mu}{n} +  r\left(\frac{t}{n}\right) \right)^{\frac{n}{it \mu}}\right)^{i t \mu} \to e^{it\mu} \ \  \text{as} \ \  n \to \infty
+\end{align}
+and the "residual", $$r(t/n) \to 0$$ as $$n \to \infty$$. Finally, recall that due to the fact that the CF is the Fourier Transform of the density function, the Delta dirac, at $$\mu$$ has the CF $$e^{it\mu}$$ which means that $$Y_n \overset{d}{\to} \mu$$ and since $$\mu$$ is a constant, it implies that $$Y_n \overset{p}{\to} \mu$$ which proves WLLN. $$\boxtimes$$
+
+**Numerical Verification of Central Limit Theorem:**
+Here, I show using a simple numerical example to show CLT in practice. The exercise I performed here is the following. I generated $$n \approx 45000$$ samples ($$X_i$$) from the uniform random distribution, $$\mathcal{U}(0,1)$$ which denotes that all entries are between $$0$$ and $$1$$. The mean is $$\mu = 0.5$$ and the variance is $$\sigma^2 = 1/12$$ for this particular distribution. Next, for varying values of $$N \in [10, n]$$, I computed the "empirical density" of $$\sqrt{N} \left(\frac{\sum_{i} X_i}{N} - \mu\right)$$. I also plotted the "true density", $$\mathcal{N}(0, \sigma^2)$$. It is very interesting to see that as $$N \to n$$ (since we cannot really use the upper bound of $$\infty$$) the histogram converges very closely to match the Gaussian density, thus confirming claim of CLT. Furthermore, notice that here I show the figures at a logarithmic scale in $$N$$ and in some sense, the empirical histogram converges "linearly" to the true density. I might make a another post detailing the convergence rates of CLT in the near future. 
+ 
+![alt text](https://media.giphy.com/media/BMIl5HB2ukMnCCchUw/giphy.gif) 
+
+Also, here is the code snippet used to create the above. 
+
+```
+#!/usr/bin/env/ python
+
+#import libraries
+import numpy as np
+import matplotlib.pyplot as plt
+
+
+#generate samples using uniform random distribution
+
+nrange = range(0, 50000);
+S = np.zeros([50000,1]);
+
+for n in nrange:
+    Y = np.random.uniform(0, 1, n+1);
+    S[n] = (np.mean(Y) - 0.5) * np.sqrt(n+1);
+
+fig = plt.figure();
+ax = plt.subplot(111);
+
+Nrange = np.logspace(np.log10(10), np.log10(50000), 100);
+
+for N in Nrange:
+    plt.hist(S[0 : int(N) : 1], bins = 50, range=[-1.5, 1.5], normed=True, color="skyblue");
+    t = np.linspace(np.min(S), np.max(S), 10000);
+    mu = np.mean(S)
+    sig = float(1)/np.sqrt(12);
+    gaussian = 1 / np.sqrt(2 * np.pi * sig **2 )* np.exp(-(t ** 2)/(2 * sig **2));
+    plt.plot(t, gaussian, linewidth=2, color='r')
+    plt.ylim([0,2.5])
+    plt.title('N = {}'.format(int(N)))
+    plt.pause(.1);
+    plt.clf();
+```
 
 
 
