@@ -10,11 +10,11 @@ permalink: /publications/
 # Journals and Pre-Prints
 
 1. [Finite Sample Guarantees for PCA in non-isotropic and data-dependent noise](https://arxiv.org/abs/1709.06255) \\
-Namrata Vaswani and *Praneeth Narayanamurthy*,
+Namrata Vaswani and *Praneeth Narayanamurthy*, manuscript
 
 1. [Provable Dynamic Robust PCA or Robust subspace tracking](https://arxiv.org/abs/1705.08948) \\
 *Praneeth Narayanamurthy* and Namrata Vaswani,
-  - revised and re-submitted to **IEEE Trans. Info. Theory** (Oct. 2017).
+  - to appear, **IEEE Trans. Info. Theory** (2018).
 
 1. [Nearly Optimal Robust Subspace Tracking](https://arxiv.org/abs/1712.06061) \\
 *Praneeth Narayanamurthy* and Namrata Vaswani,\\
@@ -33,7 +33,7 @@ Namrata Vaswani and *Praneeth Narayanamurthy*\\
 # Conference and Workshop Publications
 
 1. Nearly Optimal Robust Subspace Tracking \\
-*Praneeth Narayanamurthy* and Namrata Vaswani, **ICML 2018**
+*Praneeth Narayanamurthy* and Namrata Vaswani, **ICML 2018 (Long talk: acceptance rate=8.6%**
 
 1. Nearly Optimal Robust Subspace Tracking: A Unified Approach \\
 *Praneeth Narayanamurthy* and Namrata Vaswani, **DSW 2018**

@@ -72,7 +72,7 @@ Here, I show using a simple numerical example to show CLT in practice. The exerc
  
 ![alt text](https://media.giphy.com/media/BMIl5HB2ukMnCCchUw/giphy.gif) 
 
-Also, here is the code snippet used to create the above. 
+Here is the code snippet used to create the above animation. 
 
 ```
 #!/usr/bin/env/ python
@@ -109,7 +109,7 @@ for N in Nrange:
     plt.clf();
 ```
 
-And, that's all folks!
+And, that's all folks!!
 
 
 
