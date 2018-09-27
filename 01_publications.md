@@ -33,7 +33,7 @@ Namrata Vaswani and *Praneeth Narayanamurthy*\\
 # Conference and Workshop Publications
 
 1. Nearly Optimal Robust Subspace Tracking \\
-*Praneeth Narayanamurthy* and Namrata Vaswani, **ICML 2018 (Long talk: acceptance rate=8.6%**
+*Praneeth Narayanamurthy* and Namrata Vaswani, **ICML 2018 (Long talk: acceptance rate=8.6%)**
 
 1. Nearly Optimal Robust Subspace Tracking: A Unified Approach \\
 *Praneeth Narayanamurthy* and Namrata Vaswani, **DSW 2018**
