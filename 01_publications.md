@@ -5,7 +5,7 @@ order: 1
 permalink: /publications/
 ---
 
-(My [Google Scholar Profile](https://scholar.google.com/citations?user=oCNli74AAAAJ&hl=en&authuser=1))
+(My [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=oCNli74AAAAJ&view_op=list_works&authuser=1&sortby=pubdate))
 
 # Journals and Pre-Prints
 
@@ -28,7 +28,7 @@ Namrata Vaswani, Thiery Bouwmans, Sajid Javed, *Praneeth Narayanamurthy*,\\
 
 1. [Static and Dynamic Robust PCA and Matrix Completion: A Review](https://arxiv.org/abs/1803.00651) \\
 Namrata Vaswani and *Praneeth Narayanamurthy*\\
-  - to appear, **Proceedings of IEEE**.
+  - **Proceedings of IEEE**, August 2018.
 
 # Conference and Workshop Publications
 
