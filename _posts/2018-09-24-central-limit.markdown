@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Central Limit Theorem and Laws of Large Numbers"
+title: "Central Limit Theorem and Weak Law of Large Numbers"
 comments: true
 date: 2018-09-24 22:45:00 -0500
 tags: probability, characterisitic function, central limit theorem
@@ -8,7 +8,7 @@ tags: probability, characterisitic function, central limit theorem
 
 Hello!
 
-After a (_really_) long hiatus, I have resolved to start writing these posts more freqently. The first actualy post I attempted (which is still incomplete) turned out to be a lot more effort than I initially fathomed. Thus, in this post, I decided to set more realistic goals. At the outset, I do not claim any of the below material to be my own, but rather the culmination of effort to _restart_ the habit of reading and writing more frequently. Secondly, although the title of this post is a comprehensive topic (indeed, there is a mind-boggling number of books written on the subject, also feel free to check out the [excellent post by Terence Tao](https://terrytao.wordpress.com/2008/06/18/the-strong-law-of-large-numbers/)) I will focus on two specific aspects. (i) I will introduce the Central Limit Theorem (CLT) and the Weak Law of Large Numbers (WLLN), and prove these results using the idea of Characteristic Functions; and (ii) I will provide a numerical experiment that shows the CLT in action. 
+After a (_really_) long hiatus, I have resolved to start writing these posts more freqently. The first actual post I attempted (which is still incomplete) turned out to be a lot more effort than I initially fathomed. Thus, in this post, I decided to set more realistic goals. At the outset, I do not claim any of the below material to be my own, but rather the culmination of effort to _restart_ the habit of reading and writing more frequently. Secondly, although the title of this post is a comprehensive topic (indeed, there is a mind-boggling number of books written on the subject, also feel free to check out the [excellent post by Terence Tao](https://terrytao.wordpress.com/2008/06/18/the-strong-law-of-large-numbers/)) I will focus on two specific aspects. (i) I will introduce the Central Limit Theorem (CLT) and the Weak Law of Large Numbers (WLLN), and prove these results using the idea of Characteristic Functions; and (ii) I will provide a numerical experiment that shows the CLT in action. 
 
 **Central Limit Theorem and Weak Law of Large Numbers**
 
