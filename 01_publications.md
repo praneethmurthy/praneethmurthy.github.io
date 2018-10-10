@@ -7,19 +7,25 @@ permalink: /publications/
 
 (My [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=oCNli74AAAAJ&view_op=list_works&authuser=1&sortby=pubdate))
 
-# Journals and Pre-Prints
+# Pre-Prints
+
+1. [Subspace Tracking from Missing and Outlier Corrupted Data](https://arxiv.org/abs/1810.03051) \\
+*Praneeth Narayanamurthy*, Vahid Daneshpajooh, Namrata Vaswani \\
+ - under review, **IEEE Transactions on Signal Processing** (Oct 2018)
+
+1. [Nearly Optimal Robust Subspace Tracking](https://arxiv.org/abs/1712.06061) \\
+*Praneeth Narayanamurthy* and Namrata Vaswani,\\
+  - under review, **IEEE Transactions on Information Theory** (March 2018)
 
 1. [Finite Sample Guarantees for PCA in non-isotropic and data-dependent noise](https://arxiv.org/abs/1709.06255) \\
 Namrata Vaswani and *Praneeth Narayanamurthy*, manuscript
 
+
+# Journal Papers
+
 1. [Provable Dynamic Robust PCA or Robust subspace tracking](https://arxiv.org/abs/1705.08948) \\
 *Praneeth Narayanamurthy* and Namrata Vaswani,
-  - to appear, **IEEE Trans. Info. Theory** (2018).
-
-1. [Nearly Optimal Robust Subspace Tracking](https://arxiv.org/abs/1712.06061) \\
-*Praneeth Narayanamurthy* and Namrata Vaswani,\\
-  - under review, **IEEE Trans. Info. Theory** (March 2018)
-
+  - to appear, **IEEE Transactions on Information Theory** (2018).
 
 1. [Robust PCA, Subspace Learning, and Tracking](https://arxiv.org/abs/1711.09492) \\
 Namrata Vaswani, Thiery Bouwmans, Sajid Javed, *Praneeth Narayanamurthy*,\\
