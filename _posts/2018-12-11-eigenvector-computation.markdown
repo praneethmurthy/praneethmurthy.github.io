@@ -8,6 +8,8 @@ tags: SVD, EVD
 
 In this post, I will discuss a few ways in which eigenvalues and eigenvectors are computed in practice. As a disclaimer, I mention at the outset that this is not the way most numerical libraries perform the computation, rather, this is a beginner level article to understand some elementary methods. 
 
+*in preparation*
+
 <div id="disqus_thread"></div>
 <script>
 
