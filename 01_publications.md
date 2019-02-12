@@ -38,6 +38,9 @@ Namrata Vaswani and *Praneeth Narayanamurthy*\\
 
 # Conference and Workshop Publications
 
+1. Provable Memory-Efficient Online Robust Matrix Completion \\
+*Praneeth Narayanamurthy*, Vahid Daneshpajooh, and Namrata Vaswani, **ICASSP 2019**
+
 1. Nearly Optimal Robust Subspace Tracking \\
 *Praneeth Narayanamurthy* and Namrata Vaswani, **ICML 2018 (Long talk: acceptance rate=8.6%)**
 
