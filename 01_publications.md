@@ -14,8 +14,7 @@ permalink: /publications/
  - under review, **IEEE Transactions on Signal Processing** (Oct 2018)
 
 1. [Nearly Optimal Robust Subspace Tracking](https://arxiv.org/abs/1712.06061) \\
-*Praneeth Narayanamurthy* and Namrata Vaswani,\\
-  - under review, **IEEE Transactions on Information Theory** (March 2018)
+*Praneeth Narayanamurthy* and Namrata Vaswani, manuscript\\
 
 1. [Finite Sample Guarantees for PCA in non-isotropic and data-dependent noise](https://arxiv.org/abs/1709.06255) \\
 Namrata Vaswani and *Praneeth Narayanamurthy*, manuscript
