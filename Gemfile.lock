@@ -38,7 +38,7 @@ GEM
     public_suffix (2.0.5)
     rb-fsevent (0.9.8)
     rb-inotify (0.9.8)
-      ffi (>= 1.9.24)
+      ffi (1.9.24)
     rouge (1.11.1)
     safe_yaml (1.0.4)
     sass (3.4.24)
@@ -47,7 +47,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (= 3.4.3)
+  jekyll ( 3.6.3)
   jekyll-feed (~> 0.6)
   jekyll-seo-tag
   minima (~> 2.0)
