@@ -9,6 +9,10 @@ permalink: /publications/
 
 # Pre-Prints
 
+1. [Phaseless Low Rank Matrix Recovery and Subspace Tracking](https://arxiv.org/abs/1902.04972) \\
+Seyedehsara Nayer, *Praneeth Narayanamurthy*, and Namrata Vaswani, manuscript (Feb. 2019) \\
+
+
 1. [Subspace Tracking from Missing and Outlier Corrupted Data](https://arxiv.org/abs/1810.03051) \\
 *Praneeth Narayanamurthy*, Vahid Daneshpajooh, Namrata Vaswani \\
  - under review, **IEEE Transactions on Signal Processing** (Oct 2018)
@@ -36,6 +40,9 @@ Namrata Vaswani and *Praneeth Narayanamurthy*\\
   - **Proceedings of IEEE**, August 2018.
 
 # Conference and Workshop Publications
+
+1. Provable Subspace Tracking with Missing Entries \\
+*Praneeth Narayanamurthy*, Vahid Daneshpajooh, and Namrata Vaswani, **ISIT 2019**
 
 1. Provable Memory-Efficient Online Robust Matrix Completion \\
 *Praneeth Narayanamurthy*, Vahid Daneshpajooh, and Namrata Vaswani, **ICASSP 2019**
