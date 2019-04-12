@@ -23,6 +23,7 @@ Seyedehsara Nayer, *Praneeth Narayanamurthy*, and Namrata Vaswani, manuscript (F
 Namrata Vaswani and *Praneeth Narayanamurthy*, manuscript (Sept. 2017) 
 
 
+
 # Journal Papers
 
 1. [Provable Dynamic Robust PCA or Robust subspace tracking](https://arxiv.org/abs/1705.08948) \\
@@ -33,10 +34,10 @@ Namrata Vaswani and *Praneeth Narayanamurthy*, manuscript (Sept. 2017)
 Namrata Vaswani, Thiery Bouwmans, Sajid Javed, *Praneeth Narayanamurthy*,\\
   - **IEEE Signal Processing Magazine**, July 2018.
 
-
 1. [Static and Dynamic Robust PCA and Matrix Completion: A Review](https://arxiv.org/abs/1803.00651) \\
 Namrata Vaswani and *Praneeth Narayanamurthy*\\
   - **Proceedings of IEEE**, August 2018.
+
 
 # Conference and Workshop Publications
 
@@ -68,5 +69,5 @@ Sajid Javed, *Praneeth Narayanamurthy*, Namrata Vaswani, Thierry Bouwmans, **SSP
 Namrata Vaswani and *Praneeth Narayanamurthy*, **Allerton 2017**
 
 1. Provably Correct Robust Subspace Tracking: A Correlated-PCA-based Approach \\
-Brian Lois, Namrata Vaswani, *Praneeth Narayanamurthy*, **NIPS LHDS Workshop, 2016**
+Brian Lois, Namrata Vaswani, *Praneeth Narayanamurthy*, **NeurIPS Workshop on Learning in High Dimension with Structure (LHDS), 2016**
 
