@@ -11,7 +11,7 @@
       <div class="wrapper">
         {{ content }}
       </div>
-    </main>i
+    </main>
 
     {% assign sorted_pages = site.pages | sort:"order" %}
     {% for node in sorted_pages %}
