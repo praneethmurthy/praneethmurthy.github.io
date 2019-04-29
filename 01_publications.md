@@ -42,7 +42,7 @@ Namrata Vaswani and *Praneeth Narayanamurthy*\\
 # Conference and Workshop Publications
 
 1. Phaseless PCA: Low-Rank Martix Recovery from Column-wise Phaseless Measurements \\
-Seyedehsara Nayer, *Praneeth Narayanamurthy*, and Namrata Vaswani, **ICML 2019**
+Seyedehsara Nayer, *Praneeth Narayanamurthy*, and Namrata Vaswani, **ICML 2019 (Acceptance rate=22.6%)**
 
 1. Provable Subspace Tracking with Missing Entries \\
 *Praneeth Narayanamurthy*, Vahid Daneshpajooh, and Namrata Vaswani, **ISIT 2019**
