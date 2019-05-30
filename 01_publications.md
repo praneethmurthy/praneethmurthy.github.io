@@ -18,7 +18,7 @@ Seyedehsara Nayer, *Praneeth Narayanamurthy*, and Namrata Vaswani, manuscript (F
 
 1. [Finite Sample Guarantees for PCA in non-isotropic and data-dependent noise](https://arxiv.org/abs/1709.06255) \\
 Namrata Vaswani and *Praneeth Narayanamurthy*, manuscript (Sept. 2017) 
---->
+-->
 
 
 # Journal Papers
