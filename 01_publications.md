@@ -5,7 +5,7 @@ order: 1
 permalink: /publications/
 ---
 
-(My [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=oCNli74AAAAJ&view_op=list_works&authuser=1&sortby=pubdate))
+(My [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=oCNli74AAAAJ&view_op=list_works&authuser=1&sortby=pubdate), [DBLP Profile](https://dblp.uni-trier.de/pers/hd/n/Narayanamurthy:Praneeth))
 
 <!---
 # Pre-Prints
@@ -25,12 +25,13 @@ Namrata Vaswani and *Praneeth Narayanamurthy*, manuscript (Sept. 2017)
 
 1. [Provable Subspace Tracking from Missing Data and Matrix Completion](https://arxiv.org/abs/1810.03051) \\
 *Praneeth Narayanamurthy*, Vahid Daneshpajooh, Namrata Vaswani \\
- - to appear, **IEEE Transactions on Signal Processing** (2019)
+ - **IEEE Transactions on Signal Processing**, June 2019.
+ - Part of this paper was the **finalist of the Best Student Paper Award at SPARS 2019**.
 
 
 1. [Provable Dynamic Robust PCA or Robust subspace tracking](https://arxiv.org/abs/1705.08948) \\
 *Praneeth Narayanamurthy* and Namrata Vaswani,
-  - **IEEE Transactions on Information Theory** (2018).
+  - **IEEE Transactions on Information Theory**, March 2019.
 
 1. [Robust PCA, Subspace Learning, and Tracking](https://arxiv.org/abs/1711.09492) \\
 Namrata Vaswani, Thiery Bouwmans, Sajid Javed, *Praneeth Narayanamurthy*,\\
