@@ -7,21 +7,17 @@ permalink: /publications/
 
 (My [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=oCNli74AAAAJ&view_op=list_works&authuser=1&sortby=pubdate), [DBLP Profile](https://dblp.uni-trier.de/pers/hd/n/Narayanamurthy:Praneeth))
 
-<!---
+
 # Pre-Prints
-
-1. [Phaseless Low Rank Matrix Recovery and Subspace Tracking](https://arxiv.org/abs/1902.04972) \\
-Seyedehsara Nayer, *Praneeth Narayanamurthy*, and Namrata Vaswani, manuscript (Feb. 2019) 
-
-1. [Nearly Optimal Robust Subspace Tracking](https://arxiv.org/abs/1712.06061) \\
-*Praneeth Narayanamurthy* and Namrata Vaswani, manuscript (March 2018) 
-
-1. [Finite Sample Guarantees for PCA in non-isotropic and data-dependent noise](https://arxiv.org/abs/1709.06255) \\
-Namrata Vaswani and *Praneeth Narayanamurthy*, manuscript (Sept. 2017) 
--->
-
+1. [Federated Over-the-Air Subspace Learning from Incomplete Data](https://arxiv.org/pdf/2002.12873.pdf) \\
+*Praneeth Narayanamurthy*, Namrata Vaswani, and Aditya Ramamoorthy, \\
+ - (manuscript Feb. 2020)
 
 # Journal Papers
+1. [Provable Low-Rank Phase Retrieval and Compressive PCA](https://arxiv.org/abs/1902.04972) \\
+Seyedehsara Nayer, *Praneeth Narayanamurthy*, and Namrata Vaswani \\
+ - to appear, **IEEE Transactions on Information Theory**, Feb. 2020 
+
 
 1. [Provable Subspace Tracking from Missing Data and Matrix Completion](https://arxiv.org/abs/1810.03051) \\
 *Praneeth Narayanamurthy*, Vahid Daneshpajooh, Namrata Vaswani \\
