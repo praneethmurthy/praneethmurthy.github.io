@@ -13,7 +13,7 @@ permalink: /publications/
 *Praneeth Narayanamurthy*, Namrata Vaswani, and Aditya Ramamoorthy, \\
  - (manuscript Feb. 2020)
 
-# Journal Papers
+# Journal Publications
 1. [Provable Low-Rank Phase Retrieval and Compressive PCA](https://arxiv.org/abs/1902.04972) \\
 Seyedehsara Nayer, *Praneeth Narayanamurthy*, and Namrata Vaswani \\
  - to appear, **IEEE Transactions on Information Theory**, Feb. 2020 
