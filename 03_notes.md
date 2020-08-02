@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Notes and other
+title: Notes
 permalink: /notes/
 order: 3
 ---
