@@ -41,7 +41,7 @@ collections:
    research:
            output: true
    notes:
-	   output: true
+           output: true
    future: true
 
 #plugins:
