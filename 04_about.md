@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-order: 3
+order: 4
 ---
 
 Hi! I am Praneeth, and welcome to my *(still very nascent)* blog! I am a fourth year PhD student in the [Electrical and Computer Engineering Department](http://www.ece.iastate.edu/) at [Iowa State University](http://www.iastate.edu/). I work with [Namrata Vaswani](http://www.ece.iastate.edu/~namrata/). Broadly speaking, my interests are in the theoretical aspects of Machine Learning and High-Dimensional Statistical Signal Processing. Particularly I work on online, or streaming algorithms for matrix factorization.
