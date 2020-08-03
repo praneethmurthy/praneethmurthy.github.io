@@ -10,3 +10,5 @@ In July 2020, along with my advisor, I initiated a reading group to understand t
 * [Lecture 1:](/assets/bandit_1.pdf "Notes") Introduction to stochastic multi-armed (finite) bandits, explore-then-commit, UCB.
 
 * [Lecture 2:](/assets/bandit_2.pdf "Notes") Asymptotic optimality of UCB, MOSS, Adversarial bandit, and Exp3 algorithm.
+
+* [Lecture 3:](/assets/bandit_3.pdf "Notes") Exp3-IX algorithm.
