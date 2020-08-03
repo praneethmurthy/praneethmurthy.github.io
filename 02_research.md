@@ -16,8 +16,6 @@ This page aims to provide a mild explanation of the projects that I have worked 
 
 * [Provable Phaseless PCA](DynPR.html)
 
-* [Dynamic Compressive Robust PCA](CompDynRPCA.html)
-
 *Page perpetually Under Construction*
 
 
