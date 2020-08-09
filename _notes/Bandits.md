@@ -14,3 +14,5 @@ In July 2020, along with my advisor, I initiated a reading group to understand t
 * [Lecture 3:](/assets/bandit_3.pdf "Notes") Exp3-IX algorithm.
 
 * [Lecture 4:](/assets/bandit_4.pdf "Notes") Contextual bandits, bandits with expert advice, Exp4 algorithm.
+
+* [Lecture 6:](/assets/bandits_examples.ipynb "Notes") Contextual bandits, bandits with expert advice, Exp4 algorithm.
