@@ -15,4 +15,4 @@ In July 2020, along with my advisor, I initiated a reading group to understand t
 
 * [Lecture 4:](/assets/bandit_4.pdf "Notes") Contextual bandits, bandits with expert advice, Exp4 algorithm.
 
-* [Lecture 6:](/assets/bandits_examples.ipynb "Notes") Contextual bandits, bandits with expert advice, Exp4 algorithm.
+* [Lecture 5:](https://github.com/praneethmurthy/praneethmurthy.github.io/blob/master/assets/bandits_examples.ipynb "Notes") Contextual bandits, bandits with expert advice, Exp4 algorithm.
