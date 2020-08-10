@@ -8,3 +8,5 @@ meropfull_temp1.pdf
 #vim swap files
 *.swp
 
+#checkpoints 
+assets/.ipynb_checkpoints/
