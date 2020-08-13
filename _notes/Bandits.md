@@ -5,7 +5,7 @@ tags: Online learning, Reinforcement learning, bandits
 permalink: /notes/Bandits.html
 ---
 
-In July 2020, along with my advisor, I initiated a reading group to understand the area of Multi-Arm Bandits. The discussions are largely adapted from the recently online book on [Bandit Algorithms](https://tor-lattimore.com/downloads/book/book.pdf). Written notes for the meetings are provided below. 
+In July 2020, along with my advisor, I initiated a reading group to understand the area of Multi-Armed Bandits. The discussions are largely adapted from the recently online book on [Bandit Algorithms](https://tor-lattimore.com/downloads/book/book.pdf). Written notes for the meetings are provided below. 
 
 * [Lecture 1:](/assets/bandit_1.pdf "Notes") Introduction to stochastic multi-armed (finite) bandits, explore-then-commit, UCB.
 
@@ -15,4 +15,6 @@ In July 2020, along with my advisor, I initiated a reading group to understand t
 
 * [Lecture 4:](/assets/bandit_4.pdf "Notes") Contextual bandits, bandits with expert advice, Exp4 algorithm.
 
-* [Lecture 5:](https://github.com/praneethmurthy/praneethmurthy.github.io/blob/master/assets/bandits_examples.ipynb "Notes") Contextual bandits, bandits with expert advice, Exp4 algorithm.
+* [Lecture 5:](/assets/bandit_5.pdf "Notes") Stochastic Linear bandits, LinUCB.
+
+* [Lecture 6:](https://github.com/praneethmurthy/praneethmurthy.github.io/blob/master/assets/bandits_examples.ipynb "Notes") Notebook explaining algorithms (under prep)
