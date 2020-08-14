@@ -2,7 +2,7 @@
 title: Praneeth Narayanamurthy
 email: pkurpadn@iastate.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Ph.D. student working on Machine Learning and Signal Processingi
+  Ph.D. student working on Machine Learning and Signal Processing
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
