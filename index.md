@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: About Me
 order: 1
-permalink: /about
+permalink: /, /about
 ---
 
 Hi! I am Praneeth, and I am a PhD candidate in the [Electrical and Computer Engineering Department](http://www.ece.iastate.edu/) at [Iowa State University](http://www.iastate.edu/). I work with [Namrata Vaswani](http://www.ece.iastate.edu/~namrata/). Broadly speaking, my interests are in the theoretical aspects of Machine Learning and High-Dimensional Statistical Signal Processing. Particularly I work on online algorithms for matrix factorization.
@@ -12,5 +12,3 @@ I obtained my Bachelor of Technology degree from [National Institute of Technolo
 In my spare time I enjoy playing [this](https://en.wikipedia.org/wiki/Contract_bridge) and [this](https://en.wikipedia.org/wiki/Table_tennis)!
 
 You can find my CV [here](/cv_pn.pdf)
-
-
