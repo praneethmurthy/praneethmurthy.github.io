@@ -1,7 +1,7 @@
 ---
 layout: page
 order: 1
-permalink: /about
+permalink: /about/
 exclude: true
 ---
 
