@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Yet another Machine Learning Blog
+title: Blog
 permalink: /blog/
 order: 4
 ---
