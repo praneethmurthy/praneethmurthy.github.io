@@ -18,3 +18,6 @@ In July 2020, along with my advisor, I initiated a reading group to understand t
 * [Lecture 5:](/assets/bandit_5.pdf "Notes") Stochastic Linear bandits, LinUCB.
 
 * [Lecture 6:](https://github.com/praneethmurthy/praneethmurthy.github.io/blob/master/assets/bandits_examples.ipynb "Notes") Notebook explaining algorithms (under prep)
+
+* [Lecture 7:](/assets/bandit_pca_notes.pdf "Notes") Bandit PCA.
+
