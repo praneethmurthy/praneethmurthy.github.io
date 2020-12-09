@@ -11,4 +11,4 @@ Much before that, I recieved my Bachelor of Technology degree from National Inst
 
 In my spare time I enjoy playing [this](https://en.wikipedia.org/wiki/Contract_bridge) and [this](https://en.wikipedia.org/wiki/Table_tennis)!
 
-You can find my CV [here](/cv_pn.pdf)
+You can find my CV [here](/cv_pn.pdf) and a resume [here](/resume_pn.pdf)

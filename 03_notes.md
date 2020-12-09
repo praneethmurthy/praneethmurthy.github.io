@@ -9,8 +9,7 @@ Notes/documents for presentations/reading groups
 
 * [Bandits Reading Group:](Bandits.html) In July 2020, I presented an algorithmic overview of the online book [Bandit Algorithms](https://banditalgs.com/about/). 
 
-* [Data Science Reading Group:] Coming soon...
-
+* [Data Science Reading Group:](Misc_notes.html) As part of the data science reading group conducted in 2017, 2018 I have presented a bunch of papers.
 
 
 
