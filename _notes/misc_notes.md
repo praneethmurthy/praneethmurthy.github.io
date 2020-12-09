@@ -6,7 +6,7 @@ permalink: /notes/misc_notes.html
 ---
 
 
-* [Non-Convex Robust PCA](/assets/bandit_1.pdf "ncrpca") proof ideas for toy-example of [non convex rpca](https://arxiv.org/abs/1410.7660)
+* [Non-Convex Robust PCA](/assets/ncrpca.pdf "Notes") proof ideas for toy-example of [non convex rpca](https://arxiv.org/abs/1410.7660)
 
 * [Spectral Clustering](/assets/spectral_clustering.pdf "Notes") Based on the [definitive tutorial](https://people.csail.mit.edu/dsontag/courses/ml14/notes/Luxburg07_tutorial_spectral_clustering.pdf) 
 
