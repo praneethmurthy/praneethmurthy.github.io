@@ -5,7 +5,8 @@ tags: GANs, clustering
 permalink: /notes/misc_notes.html
 ---
 
-
+Collection of miscellaneous notes 
+ 
 * [Non-Convex Robust PCA](/assets/ncrpca.pdf "ncrpca"): proof ideas for toy-example of [non convex rpca](https://arxiv.org/abs/1410.7660)
 
 * [Spectral Clustering](/assets/spectral_clustering.pdf "clustering"): Based on the [definitive tutorial](https://people.csail.mit.edu/dsontag/courses/ml14/notes/Luxburg07_tutorial_spectral_clustering.pdf) 
