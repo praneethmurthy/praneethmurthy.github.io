@@ -12,8 +12,6 @@ github_username:  praneethmurthy
 # Build settings
 markdown: kramdown
 theme: minima
-minima: 
-	skin: dark
 
 include: ['assets']
 
