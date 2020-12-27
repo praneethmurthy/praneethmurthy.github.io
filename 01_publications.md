@@ -16,7 +16,7 @@ permalink: /publications/
 # Journal Publications
 1. [Fast Robust Subspace Tracking via PCA in Sparse Data-Dependent Noise](https://arxiv.org/abs/2006.08030) \\
 *Praneeth Narayanamurthy*, and Namrata Vaswani \\
-- to appear, **IEEE Journal of Special Areas in Information Theory**, Dec. 2020.
+- to appear, **IEEE Journal of Selected Areas in Information Theory**, Dec. 2020.
 
 1. [Provable Low-Rank Phase Retrieval and Compressive PCA](https://arxiv.org/abs/1902.04972) \\
 Seyedehsara Nayer, *Praneeth Narayanamurthy*, and Namrata Vaswani \\
