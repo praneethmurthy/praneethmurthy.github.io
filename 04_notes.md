@@ -11,6 +11,7 @@ Notes/documents for presentations/reading groups
 
 * [Data Science Reading Group:](misc_notes.html) As part of the data science reading group conducted in 2017, 2018 I have presented a bunch of papers.
 
+* [cymath](cymath.html) temporary link to host questions for may 3
 
 
 *Page perpetually under construction*
