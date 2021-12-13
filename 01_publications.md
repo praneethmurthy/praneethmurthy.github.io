@@ -78,7 +78,7 @@ Namrata Vaswani and *Praneeth Narayanamurthy*, **Allerton 2017**
 Brian Lois, Namrata Vaswani, *Praneeth Narayanamurthy*, **NeurIPS Workshop on Learning in High Dimension with Structure (LHDS), 2016**
 
 
-#Theses
+# Theses
 
 1. [Provable and Efficient Algorithms for Robust Subspace Learning and Tracking](/thesis.pdf) \\
 Ph.D. thesis, Department of Electrical and Computer Engineering, Iowa State University, July 2021. 
