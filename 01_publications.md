@@ -77,3 +77,12 @@ Namrata Vaswani and *Praneeth Narayanamurthy*, **Allerton 2017**
 1. Provably Correct Robust Subspace Tracking: A Correlated-PCA-based Approach \\
 Brian Lois, Namrata Vaswani, *Praneeth Narayanamurthy*, **NeurIPS Workshop on Learning in High Dimension with Structure (LHDS), 2016**
 
+
+#Theses
+
+1. [Provable and Efficient Algorithms for Robust Subspace Learning and Tracking](/thesis.pdf) \\
+Ph.D. thesis, Department of Electrical and Computer Engineering, Iowa State University, July 2021. 
+
+1. [Estimation of Steep-Fronted and Full-Wave Lightning Channel-Base-Current function parameters using Generic Algorithm](/BtechPaper.pdf) \\
+B.Tech thesis, Department of Electrical and Electronics Engineering, National Institute of Technology Surathkal, May 2014. 
+
