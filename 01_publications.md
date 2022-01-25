@@ -44,6 +44,9 @@ Namrata Vaswani and *Praneeth Narayanamurthy*\\
 
 # Conference and Workshop Publications
 
+1. Federated Over-Air Robust Subspace Tracking from Missing Data \\
+*Praneeth Narayanamurthy*, Namrata Vaswani, and Aditya Ramamoorthy, **ICASSP 2022**
+
 1. Phaseless PCA: Low-Rank Martix Recovery from Column-wise Phaseless Measurements \\
 Seyedehsara Nayer, *Praneeth Narayanamurthy*, and Namrata Vaswani, **ICML 2019 (Acceptance rate=22.6%)**
 
