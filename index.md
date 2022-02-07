@@ -9,7 +9,7 @@ I am a Vertex Postdoctoral Researcher at [University of Southern California](htt
 In my spare time I enjoy playing [this](https://en.wikipedia.org/wiki/Contract_bridge) and [this](https://en.wikipedia.org/wiki/Table_tennis)!
 
 
-**I am on the Academic Job Market for 2021-2022** 
+**I am on the Job Market for 2021-2022** 
 
 **Application materials:** [CV](/cv_pn.pdf),    [Research Statement](/research_statement.pdf),    [Teaching Statement](/teaching_statement.pdf),    [Resume](/resume_pn.pdf)
 
