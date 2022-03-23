@@ -5,7 +5,7 @@ order: 1
 permalink: /publications/
 ---
 
-(My [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=oCNli74AAAAJ&view_op=list_works&authuser=1&sortby=pubdate), [DBLP Profile](https://dblp.uni-trier.de/pers/hd/n/Narayanamurthy:Praneeth))
+(My [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=3A2J0esAAAAJ&view_op=list_works&sortby=pubdate), [DBLP Profile](https://dblp.uni-trier.de/pers/hd/n/Narayanamurthy:Praneeth))
 
 
 # Pre-Prints
