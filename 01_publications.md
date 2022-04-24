@@ -44,6 +44,9 @@ Namrata Vaswani and *Praneeth Narayanamurthy*\\
 
 # Conference and Workshop Publications
 
+1. Uncertainty-Based Non-Parametric Active Peak Detection \\
+*Praneeth Narayanamurthy* and Urbashi Mitra, **ISIT 2022**
+
 1. Federated Over-Air Robust Subspace Tracking from Missing Data \\
 *Praneeth Narayanamurthy*, Namrata Vaswani, and Aditya Ramamoorthy, **ICASSP 2022**
 
