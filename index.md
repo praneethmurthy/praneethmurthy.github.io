@@ -8,6 +8,6 @@ I am a Vertex Postdoctoral Researcher at [University of Southern California](htt
 
 In my spare time I enjoy playing [this](https://en.wikipedia.org/wiki/Contract_bridge) and [this](https://en.wikipedia.org/wiki/Table_tennis)!
 
-
+You can find more information in my [CV](./cv_pn.pdf) and [Resume](./resume_pn.pdf).
 
 
