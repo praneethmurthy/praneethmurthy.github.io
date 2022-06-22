@@ -8,15 +8,15 @@ permalink: /publications/
 (My [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=3A2J0esAAAAJ&view_op=list_works&sortby=pubdate), [DBLP Profile](https://dblp.uni-trier.de/pers/hd/n/Narayanamurthy:Praneeth))
 
 
-# Pre-Prints
-1. [Federated Over-the-Air Subspace Learning from Incomplete Data](https://arxiv.org/pdf/2002.12873.pdf) \\
-*Praneeth Narayanamurthy*, Namrata Vaswani, and Aditya Ramamoorthy, \\
- - (manuscript Feb. 2020)
 
 # Journal Publications
+1. [Federated Over-the-Air Subspace Learning from Incomplete Data](https://arxiv.org/pdf/2002.12873.pdf) \\
+*Praneeth Narayanamurthy*, Namrata Vaswani, and Aditya Ramamoorthy, \\
+ - to appear, **IEEE Transactions on Signal Processing**, Jun 2022.
+
 1. [Fast Robust Subspace Tracking via PCA in Sparse Data-Dependent Noise](https://arxiv.org/abs/2006.08030) \\
 *Praneeth Narayanamurthy*, and Namrata Vaswani \\
-- to appear, **IEEE Journal of Selected Areas in Information Theory**, Dec. 2020.
+- **IEEE Journal of Selected Areas in Information Theory**, Dec. 2020.
 
 1. [Provable Low-Rank Phase Retrieval and Compressive PCA](https://arxiv.org/abs/1902.04972) \\
 Seyedehsara Nayer, *Praneeth Narayanamurthy*, and Namrata Vaswani \\
