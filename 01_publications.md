@@ -44,7 +44,7 @@ Namrata Vaswani and *Praneeth Narayanamurthy*\\
 
 # Conference and Workshop Publications
 
-1. Column-Based Matrix Approximation with Quasi-Polynomial Structure \\ 
+1. Column-Based Matrix Approximation with Quasi-Polynomial Structure \\
 Jeongmin Chae, *Praneeth Narayanamurthy*, Selin Bac, Shaama Mallikarjun Sharada, and Urbashi Mitra, **ICASSP 2023**
 
 1. Uncertainty-Based Non-Parametric Active Peak Detection \\
